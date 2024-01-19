@@ -1,6 +1,6 @@
 /*
- * Author: Axmad Xurshetov
- * Date: 19.01.2024
+ * Author: 
+ * Date: 
  * Name:
  */
 
